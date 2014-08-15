@@ -5,5 +5,5 @@
 @echo		Building and add MembershipAndRolesUtilitie
 @echo.
 @echo ========================================================
-msbuild ConsoleApplication1\MembershipAndRolesUtils.csproj /target:BuildAndDeploy
+msbuild mru\MembershipAndRolesUtils.csproj /target:BuildAndDeploy
 @echo on
